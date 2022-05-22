@@ -1,0 +1,30 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.mainDiv
+{
+   
+    width: 100%;
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+}
+.innerDiv{
+    width: 80%;
+    height: 50vh;
+}
+.logintextbox
+{
+    width: 100%;
+    border: none;
+    border-bottom: solid 1px;
+}
+.makedark{
+    background-color: black;
+}
